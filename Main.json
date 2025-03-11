@@ -1,9 +1,9 @@
 {
   "FavPH": {
-    "RosieRider": "Rosie Rider",
-    "LanaRhoades": "Lana"
+    "Stars": ["Inception", "Interstellar", "The Dark Knight"],
+    "Channels": ["Brazzers"]
   },
-  "FavGames": {
-    "Hi": "Breaking Bad"
+  "FavoriteSeries": {
+    "Hi": ["Breaking Bad", "Game of Thrones", "Stranger Things"]
   }
 }
